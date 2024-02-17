@@ -7,20 +7,20 @@ export const dataFake = [
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Secret bitcoin mine discovered beneath school",
+    "description": "Mining operation reportedly cost the school around $17,500 (£14,500) in electricity",
+    "photoCover":"https://static.independent.co.uk/2023/03/01/09/bitcoin%20mine%20high%20school.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp"
   },
   {
     "id":"3",
-    "title": "Teste página 3",
-    "description": "bla blabla",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/35720ACD323F927C3A83D809D0F460BD3651740DA519BCC184B6F042057EA14D/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "Bitcoin price predictions split as Mt Gox bankruptcy repayments near",
+    "description": "New report downplays fears of major crypto market movements relating to liquidations ",
+    "photoCover":"https://static.independent.co.uk/2023/03/02/09/bitcoin%20price%20prediction%20mt%20gox.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp"
   },
   {
     "id":"4",
-    "title": "Teste página 4",
-    "description": "bla blabla",
-    "photoCover":"https://midias.correiobraziliense.com.br/_midias/jpg/2022/07/22/675x450/1_xmen-26096415.jpeg?20220722171339?20220722171339"
+    "title": "Coinbase: Man jailed in first ever insider trading case involving cryptocurrency",
+    "description": "Prosecutors said Ishan Wahi made nearly $900,000 of profit by illegally trading ahead of 40 different announcements from the crypto exchange ",
+    "photoCover":"https://static.independent.co.uk/2023/01/11/09/coinbase%20insider%20trading%20crypto.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp"
   }
 ]
